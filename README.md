@@ -1,12 +1,12 @@
-# DDOS-BOMBER About
+# boomber About
 
 
-#### DDOS-BOMBER INSTALLATION AND RUN :- 
+#### boomber INSTALLATION AND RUN :- 
 
 
 ## Usage:
 
-Run these commands to run DDOS-BOMBER
+Run these commands to run boomber
 
 ## > For Termux:
 
@@ -22,7 +22,7 @@ pkg install python
 pkg install python3
 ```
 ```
-git clone https://github.com/priyans0830m/DDOS-BOMBER.git
+git clone https://github.com/newcodesin/boomber.git
 ```
 ```
 cd DDOS-BOMBER
@@ -47,7 +47,7 @@ apt install python3
 sudo apt install git
 ```
 ```
-git clone https://github.com/priyans0830m/DDOS-BOMBER.git
+git clone https://github.com/newcodesin/boomber.git
 ```
 ```
 cd DDOS-BOMBER
