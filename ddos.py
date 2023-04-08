@@ -99,7 +99,7 @@ logo = f"""{Style.BRIGHT+text}
  {R}**********************************************
  {C}▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎°•°▪︎
  {R}**********************************************
- {C}Coder  : {Y}priyans0830m
+ {C}HOSTED BY  : {Y}${GREEN}BEEREDDY NITHISH${GREEN}
 {C}             Version : {G}{version}
  """
 os.system('clear')
@@ -418,7 +418,7 @@ def main():
 	print(Y)
 	os.system(f'dat=$(date) && echo {Y}  ✯ {W}STARTED ON : {C}$dat')
 	print(f"{W}\n-----------------------------------------------")
-	print(f"{Y}⚡ This tool is only for Educational Purposes !")
+	print(f"{Y}⚡ This tool is only for FUN NOT FOR REVENGE !")
 	print(f"{W}-----------------------------------------------")
 	print(f"\n{G}Choose Any Option\n")
 	text = (f"""{G}[{W}${G}]{R} BRAMOS ATACK☣️ {W}>>>{G}\n[{W}1{G}]{Y} SMS ATTACK {W}>>>\n{G}[{W}2{G}]{Y} CALL ATTACK {W}>>>\n{G}[{W}3{G}]{Y} MAIL BOMBER\n{W}{G}[{W}4{G}]{Y} WHATSAPP BOMBER{W} >>>\n{G}[{W}5{G}]{Y} ABOUT {W}>>>\n{G}[{W}6{G}]{Y} EXIT {W}>>>\n{G}[{W}>{G}]{Y} UPDATE {W}>>>\n""")
