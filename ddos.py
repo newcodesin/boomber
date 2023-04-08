@@ -62,7 +62,7 @@ def check_intr():
     try:
         requests.get("https://motherfuckingwebsite.com")
     except Exception:
-        print("Abe Chutiya Internet On Kar. Internet Error")
+        print("Abe Internet On Kar. Internet Error")
         sys.exit(2)       
 check = os.path.isfile('/usr/bin/bash')
 if check == True:
@@ -91,7 +91,7 @@ lic = """
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
-# if You Have Any Problem Contact Me On Insta @krish_na_2568
+# if You Have Any Problem Contact Me On Insta @beereddynithish
 # Api by Tbomb
 """
 text = ''
@@ -439,7 +439,7 @@ def main():
 		wpbomb()		
 		res()	
 	elif a == '5':
-		print(f"{C}\n All Credit : priyans0830m \n {G}Coded by priyanshu singhl\n\n{W}{lic}\n\n")
+		print(f"{C}\n All Credit : NITHISH \n {G}\n\n{W}{lic}\n\n")
 		res()
 	elif a == '6':
 		exit()
@@ -460,7 +460,7 @@ def res():
 		main()
 	else:
 		print()
-		print(f"Follow on Ig : {W}@priyanshu_7270")
+		print(f"Follow on Ig : {W}@beereddynithish")
 		exit()
 print(Style.BRIGHT)
 
@@ -649,7 +649,7 @@ def workernode(mode, cc, target, count, delay, max_threads):
     mesgdcrt.GeneralMessage("Delay         : " + str(delay) +
                             " seconds")
     mesgdcrt.WarningMessage(
-        "This tool was made for fun and research purposes only\n")
+        "This tool was made for fun not for revenge\n")
     print(f"{G} It will automatically start in 5sec")
     time.sleep(5)     
 
