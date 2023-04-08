@@ -1,8 +1,8 @@
 apt install git
 apt install python3
 pip install cython 
-rm -rf $HOME/DDOS-BOMBER
+rm -rf $HOME/boomber
 cd $HOME
-git clone https://github.com/newcodesin/DDOS-BOMBER
-cd $HOME/DDOS-BOMBER
+git clone https://github.com/newcodesin/boomber
+cd $HOME/boomber
 python3 SpS.py
